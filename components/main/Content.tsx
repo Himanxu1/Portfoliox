@@ -3,7 +3,7 @@ import TypeAnimationSequence from "../Type-animation";
 
 export default function Content() {
   return (
-    <div className="px-60">
+    <div>
       <div className="font-fire-code">
         <h1 className="text-xl font-semibold dark:text-gray-300">Hi, I&apos;m Ajay Kumar Mandal</h1>
         <p className="text-justify md:w-[600px] w-[400px] py-7 dark:text-gray-300">
