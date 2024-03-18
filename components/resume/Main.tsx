@@ -10,7 +10,7 @@ export default function Main() {
         <div className="font-fire-code">
             <div className=" py-2 px-4">
                 <h1 className="mb-2 text-lg font-semibold">Education</h1>
-                <ul className="max-w-lg space-y-1 text-gray-500 list-disc list-inside dark:text-gray-400 text-xs">
+                <ul className="max-w-lg space-y-4 text-gray-500 list-disc list-inside dark:text-gray-400 text-xs">
                     <li><Badge variant="outline" className="p-2 bg-slate-300/40 dark:bg-slate-700/40 border-none">Jain (Deemed-to-be University)</Badge> - B.Tech CSE, 2024</li>
                     <li><Badge variant="outline" className="p-2 bg-slate-300/40 dark:bg-slate-700/40 border-none">Kathmandu Model Higher Secondary School</Badge> - Higher Education, 2020</li>
                 </ul>
