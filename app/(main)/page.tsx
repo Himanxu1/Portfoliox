@@ -10,7 +10,7 @@ export default function Home() {
       <div className="mt-12 flex items-center justify-center">
         <Navbar page="Home"/>
       </div>
-      <div className="flex justify-center px-48 text-center py-5 w-svw">
+      <div className="flex justify-center px-2 text-center py-5">
         <Content />
       </div>
       <div className="flex justify-center text-center">
