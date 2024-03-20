@@ -23,7 +23,7 @@ export default function Main() {
                         <Button className=" bg-blue-50 dark:bg-gray-700/50 hover:bg-teal-200 dark:hover:bg-emerald-400 dark:hover:text-black
                          text-black dark:text-white rounded-md border dark:border-gray-500 border-gray-800 text-xs w-fit h-7 py-4" size="sm">
                             <Link href="mailto:ajayrox48@gmail.com">
-                            Get in Touch <span className="text-xs">🚀</span>
+                            Hire Me <span className="text-xs">🚀</span>
                             </Link>
                         </Button>
                     </li>

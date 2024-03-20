@@ -39,7 +39,7 @@ export default function RootLayout({
           enableSystem
           disableTransitionOnChange
           >
-          <div className="min-h-screen w-full dark:bg-gray-900 bg-slate-100  dark:bg-dot-white/[0.2] bg-dot-black/[0.2] relative">
+          <div className="h-full w-full dark:bg-gray-900 bg-slate-100  dark:bg-dot-white/[0.2] bg-dot-black/[0.2] relative">
             <div className="absolute pointer-events-none inset-0 flex items-center justify-center dark:bg-gray-900 bg-slate-100 [mask-image:radial-gradient(ellipse_at_center,transparent_50%,black)]"></div>
             {children}
             <Footer />

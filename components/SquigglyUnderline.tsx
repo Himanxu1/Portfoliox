@@ -28,7 +28,7 @@ export const SquigglyUnderline = ({ currentPage }: SquigglyUnderlineProps) => {
                     <Link
                         key={item.name}
                         href={item.href}
-                        className={`relative text-sm leading-6 no-underline ${
+                        className={`relative text-sm md:text-lg sm:text-base leading-6 no-underline ${
                             isSelected ? "font-semibold text-black" : "text-gray-600"
                         } ${isSelected ? "font-semibold dark:text-gray-300" : "text-gray-500"}`}
                         onClick={() => handleLinkClick(item.name)}

@@ -3,9 +3,11 @@ import { ThemeToggle } from "./ThemeToggle";
 
 export default function Navbar({page}: {page: string}){
     return (
-        <div className="flex grid-cols-2 px-4">
+        <div className="flex flex-row px-4">
+            <div className="py-2">
             <SquigglyUnderline currentPage={page}/>
-            <div className="px-6 py-1">
+            </div>
+            <div className="px-14">
             <ThemeToggle />
             </div>
         </div>
