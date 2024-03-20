@@ -21,7 +21,7 @@ export const SquigglyUnderline = ({ currentPage }: SquigglyUnderlineProps) => {
     };
 
     return (
-        <div className="flex gap-14 font-fire-code">
+        <div className="flex gap-12 font-fire-code">
             {navigation.map((item) => {
                 const isSelected = item.name === selectedLink;
                 return (
