@@ -35,7 +35,7 @@ function TechStack() {
                         <Badge className="border border-[#31648C] w-fit">PostgreSQL</Badge>
                         <Badge className="border border-[#035D85] w-fit">MySQL</Badge>
                         <Badge className="border border-[#FEAA23] w-fit">Firebase</Badge>
-                        <Badge className="border border-[#48D092] w-fit">Supabase</Badge>
+            
                     </CardContent>
                 </Card>
                 <Card className="flex-wrap gap-2 sm:w-56 w-fit dark:bg-gray-800/50 bg-slate-200/50">
@@ -44,7 +44,6 @@ function TechStack() {
                         <Badge className="border border-[#1895E6] w-fit">Docker</Badge>
                         <Badge className="border border-[#F1563B] w-fit">Git/Github</Badge>
                         <Badge className="border border-black dark:border-white w-fit">AWS</Badge>
-                        <Badge className="border border-[#4889F5] w-fit">GCP</Badge>
                         <Badge className="border border-black dark:border-white w-fit">Jenkins</Badge>
                     </CardContent>
                 </Card>

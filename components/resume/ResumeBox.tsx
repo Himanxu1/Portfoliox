@@ -23,7 +23,7 @@ export default function ResumeBox() {
 
           <div className="mt-3 sm:ml-4 sm:mt-0">
             <div className="text-sm font-medium text-gray-900 dark:text-slate-200">
-              Ajay Kumar Mandal.pdf (~93kb)
+              Himanshu singh.pdf (~93kb)
             </div>
             <div className="mt-1 text-sm text-gray-600 sm:flex sm:items-center">
               <div className="dark:text-slate-200">Full-Stack Engineer</div>
@@ -35,19 +35,9 @@ export default function ResumeBox() {
           </div>
         </div>
         <div className="mt-4 sm:ml-6 sm:mt-0 sm:flex-shrink-0">
+         
           <Link
-            href="https://docs.google.com/viewer?url=https://docs.google.com/document/d/1TkZU1olTYvyrHsF1_k1NsyofJxYkNvys_bFGxTiMHu8/export?format=pdf"
-            target="_blank"
-          >
-            <button
-              type="button"
-              className="inline-flex items-center rounded-md bg-slate-100/30 dark:bg-gray-900/60 dark:text-slate-200 px-3 py-2 text-sm font-semibold text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 hover:bg-gray-50 dark:hover:bg-gray-800"
-            >
-              View
-            </button>
-          </Link>
-          <Link
-            href="https://docs.google.com/document/d/1TkZU1olTYvyrHsF1_k1NsyofJxYkNvys_bFGxTiMHu8/export?format=pdf"
+            href="https://drive.google.com/file/d/1hYyXZpa6X8RhWfapiWA8IDdY1ouFHAhL/view"
             target="_blank"
           >
             <button

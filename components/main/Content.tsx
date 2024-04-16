@@ -18,18 +18,12 @@ export default function Content() {
         </div>
         <div className="flex justify-center w-screen lg:w-full order-first lg:order-last sm:justify-center">
             <div className="flex justify-center lg:justify-start">
+               
                 <Image
                     alt="Photo"
-                    className="aspect-square overflow-hidden rounded-xl object-contain object-center dark:hidden sm:w-300"
+                    className="aspect-square overflow-hidden rounded-xl object-cover object-center hidden dark:block sm:w-300"
                     height={300}
-                    src="/3.png"
-                    width={300}
-                />
-                <Image
-                    alt="Photo"
-                    className="aspect-square overflow-hidden rounded-xl object-contain object-center hidden dark:block sm:w-300"
-                    height={300}
-                    src="/4.png"
+                    src="/profile.png"
                     width={300}
                 />
             </div>
